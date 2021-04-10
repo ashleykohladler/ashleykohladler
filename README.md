@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashleykohladler
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning html, css, javascript & node.js
 - 💞️ I’m looking to collaborate on exciting projects!
 - 📫 How to reach me ashleykohladler@gmail.com
 
